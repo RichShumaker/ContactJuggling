@@ -6,7 +6,7 @@ The repository includes the Main TiddlyWiki's for ContactJugglingDotCom<br>
 
 ContactJugglingDotCom is 4 sites in one.<br>
 It uses TiddlyWiki as the underlying technology.<br>
-TiddlyWiki is a self contained Wiki so each of the 4 pages is it's own world(HTML Page).<br>
+TiddlyWiki is a self contained Wiki(HTML File_ so each of the 4 pages is it's own world.<br>
 The 4 pages are<br><br>
 
 Landing.html<br>
