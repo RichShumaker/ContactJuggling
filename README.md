@@ -17,7 +17,7 @@ Collect.html - This page is designed for anyone that collects things associated 
 ContactJugglingDotCom is unusual as it allows anyone to download any of the 4 pages and run with it in their own direction.<br>
 Like a pick your own adventure book where you can modify the adventure.<br><br>
 
-These pages are put on Github to allow people the power of GIT to contribute to the site.<br>
+These pages are put on Github to allow people the power of GIT to contribute to the site and in tern to the Art of Contact Juggling<br>
 In the past different method for contributing were created and many of them did not work because of hacking or some other issue.<br>
 Now anyone can hack away on their own copy and at the same time contribute to the group, win win.<br><br>
 
