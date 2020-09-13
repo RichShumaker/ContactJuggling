@@ -9,10 +9,10 @@ It uses TiddlyWiki as the underlying technology.<br>
 TiddlyWiki is a self contained Wiki(HTML File_ so each of the 4 pages is it's own world.<br>
 The 4 pages are<br><br>
 
-Landing.html<br>
-Watch.html<br>
-Learn.html<br>
-Collect.html<br><br>
+Landing.html - This is the index.html landing page that first pops up at the site.<BR>
+Watch.html - This page is designed for anyone that enjoys watching Contact Juggling<BR>
+Learn.html<br> - This page is designed for anyone that wants to learn Contact Juggling<BR>
+Collect.html<br><br> - This page is designed for anyone that collects things associated with Contact Juggling<BR>
 
 ContactJugglingDotCom is unusual as it allows anyone to download any of the 4 pages and run with it in their own direction.<br>
 Like a pick your own adventure book where you can modify the adventure.<br><br>
