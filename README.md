@@ -1,6 +1,10 @@
 ContactJuggling
 ===============
-the inContactJugglingDotCom is 4 sites in one.
+
+This Git Respository is to help expand Contact Juggling.
+The repository includes the Main TiddlyWiki's for ContactJugglingDotCom
+
+ContactJugglingDotCom is 4 sites in one.
 It uses TiddlyWiki as the underlying technology.
 TiddlyWiki is a self contained Wiki so each of the 4 pages is it's own world(HTML Page).
 The 4 pages are
