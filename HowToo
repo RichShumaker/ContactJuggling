@@ -1,0 +1,20 @@
+Need to clean this up.<BR>
+I use 3 different ways to both edit and save TW files(I call TiddlyWiki my Dream Machine as it allows me to reach my Dreams)<BR>
+Also learning how to use Git so things are kinda messy right now.
+
+3 Ways
+Server with a special PHP file, need to find that na dlink it
+TiddlyDesktop
+Special Browser Save - This has security issues and is why I have switched to TiddlyDesktop
+
+
+This is a How Too File for how to use the HTML files in this repository<BR><BR>
+<BR>
+THey are TiddlyWiki Files http://www.tiddlywiki.com and as such have different ways to interact with them.<BR>
+These are the 4 HTML files that are the basis for CJdC.<BR>
+They are each individual ideas of who would be using the data and therefore tailored to them.<BR>
+In the future we will break the HTML into individual pages and this will avony potential overlaps and also make a more unified 'code' base.
+It is easy to simply download my TW and put it in your system and for you to use it.<BR>
+
+Currently I find TiddlyDesktop the best way for me to interact with these files as many of the 'saving' options from browsers have been found to be problematic because of security issues.
+The other way I interact with this data is via a server. I create a Raspberry Pi server and use the code(need to find it) to allow me to upload directly from the Tiddlywiki
